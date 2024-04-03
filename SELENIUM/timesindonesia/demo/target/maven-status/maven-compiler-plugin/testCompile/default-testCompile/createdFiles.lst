@@ -1,0 +1,11 @@
+starter\stepdefinitions\HomeSteps.class
+starter\pages\HomePage.class
+starter\pages\EkoranPage.class
+starter\stepdefinitions\FokusSteps.class
+starter\pages\KanalPage.class
+starter\stepdefinitions\EkoranSteps.class
+starter\pages\FotoPage.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\FotoSteps.class
+starter\pages\FokusPage.class
+starter\stepdefinitions\KanalSteps.class

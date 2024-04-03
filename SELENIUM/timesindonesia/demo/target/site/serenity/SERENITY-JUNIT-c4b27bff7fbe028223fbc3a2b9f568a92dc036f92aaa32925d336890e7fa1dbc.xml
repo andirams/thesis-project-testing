@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Home Page" skipped="0" tests="2" time="15.84" timestamp="2023-12-23 02:21:47"><testcase name="TCHP-01 - Search news with correct input"/><testcase name="TCHP-02 - Search news with random input"/></testsuite>
